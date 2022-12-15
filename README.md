@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ejdrei
-- 👀 I’m interested in frontend development and UI/UX design
+- 👀 I’m interested in frontend development internships
 - 🌱 I’m currently learning html/css/JS/react
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me...
+- 📫 My <a href="https://www.linkedin.com/in/adrienne-roche-992289156/">LinkedIn</a>
 
 <!---
 Ejdrei/Ejdrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
