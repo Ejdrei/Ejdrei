@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development internships
 - 🌱 I’m currently learning html/css/JS/react
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 My <a href="https://www.linkedin.com/in/adrienne-roche-992289156/">LinkedIn</a>
+- 📫 My <a href="https://www.linkedin.com/in/adrienneroche/">LinkedIn</a>
 
 <!---
 Ejdrei/Ejdrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
